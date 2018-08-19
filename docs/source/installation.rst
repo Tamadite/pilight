@@ -157,6 +157,7 @@ Manually compiling pilight is also possible. Use this method is you are not usin
    #. libmbedtls10
    #. liblua5.2
    #. liblua5.2-dev
+   #. luajit-5.1
 
 #. Then download the pilight source code from the pilight GitHub:
 
